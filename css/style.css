@@ -178,6 +178,20 @@ section{
     font-size: 1.6rem;
     color: var(--light-white);
 }
+.course .row .content{
+    text-align: center;
+    flex: 1 1 40rem;
+}
+.course .row .content h3{
+    font-size: 3rem;
+    color: var(--white);
+}
+.course .row .content p{
+    padding: 1rem 0;
+    line-height: 2;
+    font-size: 1.6rem;
+    color: var(--light-white);
+}
 
 
 
